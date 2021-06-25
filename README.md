@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DEBANKA DAS</h1>
+<h1 align="center">Myself , DEBANKA DAS</h1>
 <h3 align="center">Data Science Enthusiast | Looking for opportunities in Data Science, Data Analytics,Machine Learning BI,Ethical hacking,Cyber security..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erdebankadas&label=Profile%20views&color=0e75b6&style=flat" alt="erdebankadas" /> </p>
