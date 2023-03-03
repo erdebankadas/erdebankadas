@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **dbnkds91@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/r/atquss](https://rxresu.me/r/atquss)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
